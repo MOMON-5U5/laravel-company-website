@@ -1,11 +1,3 @@
-# Perintah Git
-git init
-git add .
-git commit -m "Initial commit: Laravel Company Profile Project"
-git branch -M main
-git remote add origin https://github.com/ndrzy30/laravel-company-website.git
-git push -u origin main
-
 # Laravel Company Profile Website 🏢
 [![Laravel](https://img.shields.io/badge/Laravel-10.0-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
 [![PHP](https://img.shields.io/badge/PHP-8.1-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
