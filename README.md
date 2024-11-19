@@ -130,7 +130,6 @@ Distributed under the MIT License. See LICENSE for more information.
 
 ## 📫 Kontak
 Project Link: https://github.com/ndrzy30/laravel-company-website
-(https://github.com/ndrzy30/laravel-trendprojection-forecast)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ndrzyy_99)
 
 
