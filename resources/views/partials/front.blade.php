@@ -37,8 +37,8 @@
                 <nav class="navbar navbar-right">
 
                     <a class="navbar-brand tw-nav-brand" href="index.html">
-                        <img src="{{ asset('/asset/img/logohmn.png') }}" width="200" height="100"
-                            alt="PT Haga Mendhena Nusantara">
+                        <img src="{{ asset('/asset/img/bricttion.svg') }}" width="200" height="100"
+                            alt="Briction">
                     </a>
 
                     <nav id="navbar" class="navbar">
@@ -83,7 +83,7 @@
 
             <div class="container">
                 <div class="copyright">
-                    &copy; Copyright <strong><span>HagaMendhenaNusantara</span></strong>. All Rights Reserved
+                    &copy; Copyright <strong><span>Briction</span></strong>. All Rights Reserved
                 </div>
 
             </div>
