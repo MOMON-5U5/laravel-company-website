@@ -144,7 +144,7 @@
         <section id="services" class="services">
             <div class="container" data-aos="fade-up">
                 <header class="section-header">
-                    <p>Product Kami 🥰🤗 </p>
+                    <p>portofolio Kami 🥰🤗 </p>
                 </header>
 
                 <div class="row gy-4">
@@ -312,25 +312,43 @@
         <section id="portfolio" class="portfolio">
             <div class="container" data-aos="fade-up">
                 <header class="section-header">
-                    <p>Portfolio Kami 😎</p>
+                    <p>Product Kami 😎</p>
                     <br>
                     <br> <br>
 
                     <div class="portfolio">
                         <div class="portfolio-item">
-                            <img src="{{ asset('asset/img/portfolio/sim rs-project.png') }}"
+                            <img src="{{ asset('asset/img/portfolio/11.png') }}"
                                 alt="lorem" />
                             <p>test1</p>
                             <a href="#">Selengkapnya...</a>
                         </div>
                         <div class="portfolio-item">
-                            <img src="{{ asset('asset/img/portfolio/simpus.png') }}"
+                            <img src="{{ asset('asset/img/portfolio/22.png') }}"
                                 alt="Project 2 PT Haga Mendhena Nusantara" />
                             <p>test2</p>
                             <a href="#">Selengkapnya...</a>
                         </div>
                         <div class="portfolio-item">
-                            <img src="{{ asset('asset/img/portfolio/klinik.png') }}"
+                            <img src="{{ asset('asset/img/portfolio/33.png') }}"
+                                alt="Project 3 PT Haga Mendhena Nusantara" />
+                            <p>test3</p>
+                            <a href="#">Selengkapnya...</a>
+                        </div>
+                        <div class="portfolio-item">
+                            <img src="{{ asset('asset/img/portfolio/33.png') }}"
+                                alt="Project 3 PT Haga Mendhena Nusantara" />
+                            <p>test3</p>
+                            <a href="#">Selengkapnya...</a>
+                        </div>
+                        <div class="portfolio-item">
+                            <img src="{{ asset('asset/img/portfolio/33.png') }}"
+                                alt="Project 3 PT Haga Mendhena Nusantara" />
+                            <p>test3</p>
+                            <a href="#">Selengkapnya...</a>
+                        </div>
+                        <div class="portfolio-item">
+                            <img src="{{ asset('asset/img/portfolio/33.png') }}"
                                 alt="Project 3 PT Haga Mendhena Nusantara" />
                             <p>test3</p>
                             <a href="#">Selengkapnya...</a>
@@ -355,7 +373,7 @@
                         <div class="member">
                             <a href="youtube.com" target="_blank">
                                 <div class="member-img">
-                                    <img src="{{ asset('asset/img/team/avatar-1.jpg') }}" class="img-fluid" alt="Hasrat B. Lafau" />
+                                    <img src="{{ asset('asset/img/team/12.png') }}" class="img-fluid" alt="Hasrat B. Lafau" />
                                 </div>
                             </a>
                             <div class="social">
@@ -369,7 +387,7 @@
                         <div class="member">
                             <a href="http://andrezai.my.id/" target="_blank">
                                 <div class="member-img">
-                                    <img src="{{ asset('asset/img/team/avatar-5.jpg') }}" class="img-fluid" alt="Hasrat B. Lafau" />
+                                    <img src="{{ asset('asset/img/team/13.png') }}" class="img-fluid" alt="Hasrat B. Lafau" />
                                 </div>
                             </a>
                             <div class="social">
@@ -383,7 +401,7 @@
                         <div class="member">
                             <a href="https://hasratlafau.my.id/" target="_blank">
                                 <div class="member-img">
-                                    <img src="{{ asset('asset/img/team/avatar-10.jpg') }}" class="img-fluid" alt="Hasrat B. Lafau" />
+                                    <img src="{{ asset('asset/img/team/14.png') }}" class="img-fluid" alt="Hasrat B. Lafau" />
                                 </div>
                             </a>
                             <div class="social">
@@ -397,7 +415,7 @@
                         <div class="member">
                             <a href="https://hasratlafau.my.id/" target="_blank">
                                 <div class="member-img">
-                                    <img src="{{ asset('asset/img/team/avatar-6.jpg') }}" class="img-fluid" alt="Hasrat B. Lafau" />
+                                    <img src="{{ asset('asset/img/team/14.png') }}" class="img-fluid" alt="Hasrat B. Lafau" />
                                 </div>
                             </a>
                             <div class="social">
